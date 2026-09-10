@@ -1,0 +1,1 @@
+# Polarr-Photo-Editor-Full-Version
