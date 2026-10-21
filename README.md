@@ -237,4 +237,4 @@ This repository serves as the official landing page for Polarr Photo Editor. The
 **Get the most recent version of Polarr Photo Editor today!**
 
 ---
-**Last updated:** 2026-10-21 19:15:04 UTC
+**Last updated:** 2026-10-21 23:07:47 UTC
